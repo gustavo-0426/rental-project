@@ -15,7 +15,7 @@
 	<name>rental-project</name>
 
 	<modules>
-		<module>api-microservice-user-mysql</module>
+		<module>rental-user-service</module>
 	</modules>
 
 	<properties>
