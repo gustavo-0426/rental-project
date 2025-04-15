@@ -1,2 +1,2 @@
-# template-spring-boot
-This is a template for spring boot project
+# rental-project
+This is a project for the management of apartment rentals
